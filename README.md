@@ -1,2 +1,2 @@
 # test
-array unique
+array, string and date functions
